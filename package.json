@@ -1,0 +1,25 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "hooper": "^0.3.4",
+    "vue": "^2.7.7",
+    "vue-material": "^1.0.0-beta-15",
+    "vue-router": "^3.5.4",
+    "vuetify": "^2.6.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^2.0.0",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "deepmerge": "^4.2.2",
+    "sass": "~1.32",
+    "sass-loader": "^13.0.2",
+    "terser": "^5.14.2",
+    "vite": "^3.0.2"
+  }
+}
